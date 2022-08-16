@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "TestCertificate": {
+      "@id": "https://raw.githubusercontent.com/yejeen/test-vc/main/TestCertificate-v1-0",
+      "@context": {
+        "@version": 1.0,
+        "@protected": true
+      }
+    },
+    "givenName": {
+      "@id": "https://schema.org/givenName",
+      "@type": "https://schema.org/Text"
+    },
+    "familyName": {
+      "@id": "https://schema.org/familyName",
+      "@type": "https://schema.org/Text"
+    },
+    "dateOfBirth": {
+      "@id": "https://schema.org/dateOfBirth"
+    }
+  }
+}
