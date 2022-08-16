@@ -1,7 +1,7 @@
 {
   "@context": {
     "TestCertificate": {
-      "@id": "https://raw.githubusercontent.com/yejeen/test-vc/main/TestCertificate-v1-0",
+      "@id": "https://yejeen.github.io/test-vc/TestCertificate-v1-0.json",
       "@context": {
         "@version": 1.0,
         "@protected": true
