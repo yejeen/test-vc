@@ -16,7 +16,12 @@
       "@type": "https://schema.org/Text"
     },
     "dateOfBirth": {
-      "@id": "https://schema.org/dateOfBirth"
+      "@id": "https://schema.org/dateOfBirth",
+      "@type": "https://schema.org/Date"
+    },
+    "expiryDate": {
+      "@id": "https://yejeen.github.io/test-vc/TestCertificate-v1-0.json#expiryDate",
+      "@type": "https://schema.org/Date"
     }
   }
 }
